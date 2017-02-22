@@ -1,0 +1,33 @@
+{
+    "plats": {
+        "carry poulet": {
+            "valeur": 160
+        },
+        "rougail saucisse": {
+            "valeur": 327
+        },
+        "pates": {
+            "valeur": 250
+        },
+        "pain bouchon": {
+            "valeur": 1200
+        },
+        "riz cantonnais": {
+            "valeur": 300
+        }
+    },
+    "boissons": {
+        "coca": {
+            "valeur": 90
+        },
+        "eau": {
+            "valeur": 0
+        },
+        "café" : {
+             "valeur" : 0
+        },
+        "thé glacé" : {
+            "valeur" : 35
+        }
+    }
+}
